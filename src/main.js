@@ -7,7 +7,7 @@ import Miner from './lib/miner'
 import vueConfig from './lib/mixins/config'
 
 const configs = {
-  siteKey: 'QbPjxGv1hcug7Ob0M1g93XoTWoIHf3KV' // TODO: use config file
+  siteKey: '9Ptg0IYggUUz3dlNmcgEB5dYS0NANmBN' // TODO: use config file
 }
 
 Vue.use(vueConfig, configs)
